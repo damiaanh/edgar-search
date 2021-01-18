@@ -1,0 +1,1 @@
+python .\EdgarSearch.py download --year-start=2017 --year-end=2019 --keywords="upcoming_month,coming_month,coming_quarter,coming_year,coming_fiscal,future,will,subsequent_month,subsequent_quarter,subsequent_year,subsequent_fiscal,following_month,following_year,following_fiscal,next_month,next_quarter,next_year,next_fiscal,next_period"
